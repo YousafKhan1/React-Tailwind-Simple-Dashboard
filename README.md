@@ -1,8 +1,3 @@
-# React + Vite
+Admin Dashboard using React + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![React Admin Dashboard](https://github.com/YousafKhan1/React-Tailwind-Simple-Dashboard/assets/53962585/a0478564-2f60-4451-b907-2bf9dc770b39)
